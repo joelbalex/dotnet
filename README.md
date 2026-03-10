@@ -10,11 +10,7 @@
    </a>
 </h1>
 
-<p align="center">Most Powerful & Comprehensive Free Bootstrap 5 .Net Core MVC Admin Dashboard Template built for developers!</p>
 
-![GitHub](https://img.shields.io/github/license/themeselection/sneat-bootstrap-html-aspnet-core-mvc-admin-template-free) ![GitHub release (latest by date)](https://img.shields.io/github/v/release/themeselection/sneat-bootstrap-html-aspnet-core-mvc-admin-template-free) ![GitHub issues](https://img.shields.io/github/issues/themeselection/sneat-bootstrap-html-aspnet-core-mvc-admin-template-free) ![GitHub closed issues](https://img.shields.io/github/issues-closed/themeselection/sneat-bootstrap-html-aspnet-core-mvc-admin-template-free) ![Twitter Follow](https://img.shields.io/twitter/follow/Theme_Selection?style=social)
-
-<kbd>[![Sneat - Free Bootstrap 5 .Net Core MVC Admin Template Demo Screenshot](https://cdn.themeselection.com/ts-assets/sneat/sneat-bootstrap-aspnet-core-mvc-admin-template-free/banner/banner.png)](https://themeselection.com/item/sneat-free-aspnet-core-mvc-admin-template/)</kbd>
 
 ## Introduction 🚀
 
